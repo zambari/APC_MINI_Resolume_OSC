@@ -2,13 +2,11 @@
 
 
 
-![APC MIni](https://supersound.pl/media/catalog/product/cache/1/image/17f82f742ffe127f42dca9de82fb58b1/A/K/AKAI_APC_MINI_53a46ceb2e985.jpg)
-
 This Processing (http://processing.org) sketch is a bi directional interface mapping between APC MINI and Resolume, using OSC.
 
 To Use, enable OSC input and Output in Resolume, using ports 7000 and 7001 (swap them if you run into issues)
 
-![Mapping](https://github.com/zambari/APC_MINI_Resolume_OSC/apc_mini_resolume/apc_resolume_mapping.png)
+![Mapping](https://github.com/zambari/APC_MINI_Resolume_OSC/blob/master/apc_mini_resolume/apc_resolume_mapping.png?raw=true)
 
 
 Each two rows of button representsa layer in resolume, you can click it to start playback, it also synces (highlights) the clip if you click in using a mouse in resolume.
@@ -17,14 +15,10 @@ Small round buttons are mapped to scrolling the visible 'window' of clips, so it
 
 TThe very bottom row of the buttons represent triggering forward and backward playback of clips.
 
-Fades are grouped into four secion, with fader one in each section representing opacity, and fader two representing speed.
+Fades are grouped into four secion, with fader one in each section representing opacity, and fader two representing speed of each of the four supported layers
 
 
-Main concept of this sketch is to enable vj to trigger an unlimited number of clips, 
-so there is no need to swap decks - 
-
-
-
+![APC MIni](https://supersound.pl/media/catalog/product/cache/1/image/17f82f742ffe127f42dca9de82fb58b1/A/K/AKAI_APC_MINI_53a46ceb2e985.jpg)
 
 
 (OSC bundles must be disabled)
