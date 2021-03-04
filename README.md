@@ -21,14 +21,25 @@ Main concept of this sketch is to enable vj to trigger an unlimited number of cl
 so there is no need to swap decks - 
 
 
+Layer4 clips
  [ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ] 
 ------|-----|-----|-----|-----|-----|-----|------------
  [ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ] 
+
+Layer3 clips
  [ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ] 
+ ------|-----|-----|-----|-----|-----|-----|------------
  [ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ] 
+
+ Layer3 clips
  [ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ] 
+ ------|-----|-----|-----|-----|-----|-----|------------
  [ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ] 
+
+ 
+ Layer1 clips
  [ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ] 
+ ------|-----|-----|-----|-----|-----|-----|------------
  [ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ] 
 
 round buttons and sliders
