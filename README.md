@@ -8,6 +8,9 @@ This Processing (http://processing.org) sketch is a bi directional interface map
 
 To Use, enable OSC input and Output in Resolume, using ports 7000 and 7001 (swap them if you run into issues)
 
+![Mapping](https://github.com/zambari/APC_MINI_Resolume_OSC/apc_resolume_mapping.png)
+
+
 Each two rows of button representsa layer in resolume, you can click it to start playback, it also synces (highlights) the clip if you click in using a mouse in resolume.
 
 Small round buttons are mapped to scrolling the visible 'window' of clips, so it supports infinite amount of clips per track, even if you use hundereds per track, you can still see a window of 16 clips and you can scroll each of the four sections independently.
@@ -21,31 +24,8 @@ Main concept of this sketch is to enable vj to trigger an unlimited number of cl
 so there is no need to swap decks - 
 
 
-Layer4 clips
- [ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ] 
-------|-----|-----|-----|-----|-----|-----|------------
- [ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ]|[ a ] 
 
-Layer3 clips
- [ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ] 
- ------|-----|-----|-----|-----|-----|-----|------------
- [ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ]|[ b ] 
 
- Layer3 clips
- [ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ] 
- ------|-----|-----|-----|-----|-----|-----|------------
- [ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ]|[ c ] 
-
- 
- Layer1 clips
- [ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ] 
- ------|-----|-----|-----|-----|-----|-----|------------
- [ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ]|[ d ] 
-
-round buttons and sliders
-  <<A | A>> | <<B | B>> | <<C | C>> | <<D | D>>
-  ------|-----|-----|-----|-----|-----|-----|------------
-  REV | FWD | REV | FWD | REV | FWD | REV | FWD
 
 (OSC bundles must be disabled)
 
