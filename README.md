@@ -8,7 +8,7 @@ This Processing (http://processing.org) sketch is a bi directional interface map
 
 To Use, enable OSC input and Output in Resolume, using ports 7000 and 7001 (swap them if you run into issues)
 
-![Mapping](https://github.com/zambari/APC_MINI_Resolume_OSC/apc_resolume_mapping.png)
+![Mapping](https://github.com/zambari/APC_MINI_Resolume_OSC/apc_mini_resolume/apc_resolume_mapping.png)
 
 
 Each two rows of button representsa layer in resolume, you can click it to start playback, it also synces (highlights) the clip if you click in using a mouse in resolume.
