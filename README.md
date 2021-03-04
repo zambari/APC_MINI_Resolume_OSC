@@ -27,3 +27,6 @@ Dependencies:
 You have to have OscP5 (http://www.sojamo.de/libraries/oscP5/download/oscP5-0.9.8.zip)  and MidiBus (http://www.smallbutdigital.com/projects/themidibus/) installed. Last time I checked there were some incompatibilities in Midibus, if you run into issues, download an older version
 Libraries 
 
+This was written back in 2015 and I think resolume might have changed their addressing pattern a little bit, let me know if I need to dig out my APC
+
+Happy Vjing
